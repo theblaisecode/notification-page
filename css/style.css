@@ -30,6 +30,7 @@ body {
    height: 100vh;
    background: var(--very-light-grayish-blue);
    overflow-x: hidden;
+   overflow-y: auto;
 }
 
 /* --------------------------- Layout Styling --------------------------- */
