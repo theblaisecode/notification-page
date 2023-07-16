@@ -2,7 +2,13 @@
 
 This is a Frontend Mentor challenge built on HTML and CSS only (fully responsive on all screens).
 
-The aim was to build out this notification page and get it as close to the design as possible.
+## The Aim 
+
+- To build out this notification page and get it as close to the design as possible.
+- Distinguish between "unread" and "read" notifications.
+- Select "Mark all as read" to toggle the visual state of the unread notifications and set the number of unread messages to zero.
+- View the optimal layout for the interface depending on their device's screen size.
+- See hover and focus states for all interactive elements on the page.
 
 Live project - [https://theblaisecode.github.io/notification-page](https://theblaisecode.github.io/notification-page/)
 
