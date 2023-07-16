@@ -1,6 +1,6 @@
 # Frontend Mentor - Notification Page
 
-This is a Frontend Mentor challenge built on HTML and CSS only (fully responsive on all screens).
+This is a Frontend Mentor challenge built on HTML, CSS, and JavaScript only (fully responsive on all screens).
 
 ## The Aim 
 
