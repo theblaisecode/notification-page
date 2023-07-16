@@ -21,7 +21,7 @@ Link to Frontend Mentor challenge - [Notification Page](https://www.frontendment
 
 ## Tech Stack
 
-HTML, CSS
+HTML, CSS, JS
 
 
 ## Authors
